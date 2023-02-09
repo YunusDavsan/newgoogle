@@ -1,0 +1,50 @@
+/* en sağ üstteki 9 noktayı küçültmeye çalışıyorum */
+.saga-yatirma {
+    float: right;
+    
+}
+.a {
+    text-decoration: none;
+   }
+
+.bosluk-sol {
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+/* logo kısmı için  */
+.bosluk-birakma{
+    margin: 30px;
+}
+/* arama cubukları için çalışıyorum */
+.yuvarlama-ana {
+    border-radius: 20px;
+    width: 480px;
+    height: 40px;
+    border: 1px solid rgba(168, 166, 166, 0.5);
+    
+}
+.yuvarlama2 {
+    border-radius: 10px;
+    width: 90px;
+    height:25px ;
+    background-color: #f2f2f2;
+    margin-top: 20px;
+    margin-right: 10px;
+    border: 1px solid #f2f2f2;
+    padding:5px ;
+    font-style: arial;
+    font-size: 14px;
+}
+.yuvarlama3 {
+    border-radius: 10px;
+    width: 190px;
+    height:25px ;
+    background-color: #f2f2f2;
+    margin-top: 20px;
+    border: 1px solid #f2f2f2;
+    padding:5px;
+    font-style: arial;
+    font-size: 14px;
+}
+/* ana cubuk içi için çalışıyorum */
